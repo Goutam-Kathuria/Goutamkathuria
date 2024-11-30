@@ -1,0 +1,170 @@
+
+.Main{
+background-image: linear-gradient(rgb(0, 82, 225),rgb(0, 84, 220),rgb(0, 140, 255),rgb(104, 255, 255));
+height: 100%;
+width: 100%;
+}
+.board{
+    text-align: center;
+padding: 9%;
+line-height: 2.5;
+}
+
+#input{
+    transform: translate(140px,40px);
+    border-radius: 40px;
+    width: 900px;
+    height: 50px;
+    font-size: 20px;
+    float: left;
+    color: blue;
+    
+border: rgb(179, 255, 255) 6px solid;
+box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+}
+
+button{
+background: transparent;
+color: white;
+border: white 2px solid;
+border-radius: 5px;
+}
+
+#up{
+    height:30px;
+    width: 60px;
+margin-left: 2.4px;
+}
+#up1{
+    height:50px;
+    width: 60px;
+
+    font-size: large;
+}
+#backspace{
+    height:50px;
+    width: 90px;
+    transform: translate(0px,-7px);
+font-size: 10px;
+}
+#up2{
+    height:50px;
+    width: 60px;
+    transform: translate(0px,-12px);
+}
+#tab{
+    height:50px;
+    width: 83px;
+    transform: translate(0px,-4px);
+}
+#up3{
+    transform: translate(0px,-4px);
+    height:50px;
+    width: 60px;
+    margin-left: 3px;
+}
+#up4{
+    height:50px;
+    width: 60px;
+    margin-left: -0.2px;
+    transform: translate(0px,-16px);
+}
+#enter,#caps{
+    height:50px;
+    width: 109px;
+    transform: translate(0px,-8px);
+  
+}
+#caps{
+    transform: translate(0px,-16px);
+}
+
+
+#up5{
+    height:50px;
+    width: 60px;
+    transform: translate(0px,-8px);
+}
+
+#last{
+    height:50px;
+    width: 60px;
+    margin-left: -0.2px;
+    transform: translate(0px,-12px);
+}
+
+#shift{
+    height:50px;
+    width: 141px;
+    transform: translate(0px,-12px);
+}
+
+#last1{
+    height:50px;
+    width: 60px;
+    transform: translate(0px,-26.9px);
+}
+
+#space{
+    height:50px;
+    width: 289px;
+    transform: translate(0px,-9px);
+}
+
+#arrow-up{
+transform: translate(25px,-39px);
+height: 24px;
+}
+#arrow-down{
+transform: translate(-28px,-15px);
+height: 24px;
+}
+#arrow{
+    transform: translate(0px,-17px);
+    height: 30px;
+}
+
+#last2{
+    height:50px;
+    width: 60px;
+    margin-left: -0.2px;
+    transform: translate(0px,-45px);
+    opacity: 0.3;
+}
+
+#shift2{
+    height:50px;
+    width: 141px;
+    transform: translate(0px,-45px);
+    opacity: 0.3;
+}
+
+#last3{
+    height:50px;
+    width: 60px;
+    transform: translate(0px,-45px);
+    opacity: 0.3;
+}
+
+#space1{
+    height:50px;
+    width: 289px;
+    transform: translate(0px,-29px);
+    opacity: 0.3;
+}
+
+#arrow1-up{
+    transform: translate(25px,-59px);
+    height: 24px;
+    opacity: 0.3;
+    }
+#arrow1-down{
+transform: translate(-28px,-35px);
+height: 24px;
+opacity: 0.3;
+}
+#arrow1{
+ transform: translate(0px,-55px);
+ height: 30px;
+ opacity: 0.3;
+  }

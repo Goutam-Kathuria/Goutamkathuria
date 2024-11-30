@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Credit Card(CC)</title>
+    <link rel="stylesheet" href="card.css">
+    <script defer src="card.js"></script>
+
+</head>
+<body>
+    <div class="Main">
+
+<div class="card">
+<img src="download-removebg-preview.png" alt="">
+</div>
+
+<div class="bottom" onsubmit="return check()">
+    <form action="">
+    <label for="card-no">Card Number</label>
+    <input type="text" placeholder="---- ---- ---- ----" id="card-no"><br>
+
+    <label for="CV">CVV</label>
+    <input type="text" id="CV" placeholder="- - -" ><br>
+    <label for="Exp">Expiration</label>
+    <input type="number" placeholder="MONTH" id="Exp">
+    <input type="number" placeholder="YEAR" id="Exp2">
+
+  <br><button type="submit">VALIDATE</button>
+  <button type="reset">CLEAR</button>
+</form>
+</div>
+
+    </div>
+    
+</body>
+</html>

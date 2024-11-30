@@ -1,0 +1,63 @@
+.main{
+    border: black dashed 4px;
+    border-radius: 150px;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+   margin-top: 100px;
+
+}
+.border{
+    border: rgba(15, 14, 14, 0.944) solid 12px;
+    border-radius: 150px;
+    height: 192px;
+    width: 193px;
+    
+}
+
+img{
+   background-size: cover;
+position: absolute;
+transform: translate(-45px,-45px);
+width: 260px;
+
+}
+
+#min{
+    height: 70px;
+    width: 5px;
+    background: white;
+    border: solid rgb(233, 224, 182) 1px;
+    border-top-left-radius:50% ;
+ 
+    border-top-right-radius:50% ;
+ 
+
+}
+#sec{
+    height: 70px;
+    width: 1px;
+    border: solid rgb(233, 224, 182) 1px;
+
+    
+}
+
+#hour{
+    height: 50px;
+    width: 3px;
+background: white;
+    border: solid white 1px;
+    border-top-left-radius:50% ;
+     
+    border-top-right-radius:50% ;
+    
+  
+}
+
+#sec, #min, #hour{
+    transform-origin:bottom;
+    position: absolute;
+    left: 49.8%;
+    bottom: 62.5%;
+ 
+}
