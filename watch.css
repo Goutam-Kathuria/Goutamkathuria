@@ -1,18 +1,18 @@
 .main{
     border: black dashed 4px;
-    border-radius: 150px;
+    border-radius: 50%;
     height: 200px;
     width: 200px;
     margin: auto;
    margin-top: 100px;
 
 }
-.border{
+.outer{
     border: rgba(15, 14, 14, 0.944) solid 12px;
-    border-radius: 150px;
+    border-radius: 50%;
     height: 192px;
     width: 193px;
-    
+    margin: auto;
 }
 
 img{
