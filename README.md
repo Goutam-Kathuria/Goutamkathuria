@@ -7,7 +7,7 @@ Welcome to my GitHub repository! Here are some of my projects and my CV:
 ## **Projects**
 
 - **[KBC Quiz](https://goutam-kathuria.github.io/Goutamkathuria/quiz.html):**  
-  A simple quiz game.
+  It's a simple quiz game.
 
 - **[Hand Watch](https://goutam-kathuria.github.io/Goutamkathuria/watch.html):**  
   A digital watch simulation.
