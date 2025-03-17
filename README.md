@@ -33,10 +33,3 @@ You can view my CV (Form) here:
 
 I'm learning Android app development, and these are some of the projects I've built while exploring HTML, CSS, and JavaScript.
 
----
-
-## **How to Use**
-
-- Clone the repository:  
-  ```bash
-  git clone https://github.com/Goutam-Kathuria/Goutamkathuria.git
