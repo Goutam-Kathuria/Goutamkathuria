@@ -31,7 +31,7 @@ You can view my CV (Form) here:
 
 ## **About Me**
 
-I'm learning web development, and these are some of the projects I've built while exploring HTML, CSS, and JavaScript.
+I'm learning Android app development, and these are some of the projects I've built while exploring HTML, CSS, and JavaScript.
 
 ---
 
