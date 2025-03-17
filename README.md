@@ -18,8 +18,8 @@ Welcome to my GitHub repository! Here are some of my projects and my CV:
 - **[Virtual Keyboard](https://goutam-kathuria.github.io/Goutamkathuria/keyboard.html):**  
   An on-screen keyboard.
 
-- **[Card Animation](https://goutam-kathuria.github.io/Goutamkathuria/card.html):**  
-  Interactive card animations.
+- **[Credit Card](https://goutam-kathuria.github.io/Goutamkathuria/card.html):**  
+  Interactive card validation.
 
 ---
 
